@@ -1,0 +1,16 @@
+body {
+    background-color: lightskyblue;
+    background-image: url('images/awan.jpg');
+    background-attachment: fixed;
+}
+
+div {
+    background-color:khaki;
+    background-image: url('images/images.jpg');
+    width: 1000px;
+    height: 1500px;
+    background-repeat: no-repeat;
+    /* background-position: right top; */
+    background-position-x: 50px;
+    background-position-y: 50px;
+}
